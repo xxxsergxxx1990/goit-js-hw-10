@@ -11,7 +11,7 @@ const searchBox = document.querySelector('#search-box');
 const body = document.querySelector('body');
 
 body.style.backgroundImage =
-  'radial-gradient( circle 610px at 5.2% 51.6%,  rgba(5,8,114,1) 0%, rgba(7,3,53,1) 97.5% )';
+  ' radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #FDB931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%)';
 countriesList.style.visibility = 'hidden';
 countryInfo.style.visibility = 'hidden';
 
